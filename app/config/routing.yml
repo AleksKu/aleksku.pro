@@ -1,3 +1,7 @@
+ak_app:
+    resource: "@AkAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
 # KunstmaanMediaBundle
 _liip_imagine:
     resource: "@LiipImagineBundle/Resources/config/routing.xml"

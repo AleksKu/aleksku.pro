@@ -1,0 +1,16 @@
+name: Main
+context: main
+types:
+    - { name: Audio, class: Ak\AppBundle\Entity\PageParts\AudioPagePart }
+    - { name: Button, class: Ak\AppBundle\Entity\PageParts\ButtonPagePart }
+    - { name: Download, class: Ak\AppBundle\Entity\PageParts\DownloadPagePart }
+    - { name: Header, class: Ak\AppBundle\Entity\PageParts\HeaderPagePart }
+    - { name: Image, class: Ak\AppBundle\Entity\PageParts\ImagePagePart }
+    - { name: IntroText, class: Ak\AppBundle\Entity\PageParts\IntroTextPagePart }
+    - { name: Line, class: Ak\AppBundle\Entity\PageParts\LinePagePart }
+    - { name: Link, class: Ak\AppBundle\Entity\PageParts\LinkPagePart }
+    - { name: RawHtml, class: Ak\AppBundle\Entity\PageParts\RawHtmlPagePart }
+    - { name: Text, class: Ak\AppBundle\Entity\PageParts\TextPagePart }
+    - { name: Toc, class: Ak\AppBundle\Entity\PageParts\TocPagePart }
+    - { name: ToTop, class: Ak\AppBundle\Entity\PageParts\ToTopPagePart }
+    - { name: Video, class: Ak\AppBundle\Entity\PageParts\VideoPagePart }

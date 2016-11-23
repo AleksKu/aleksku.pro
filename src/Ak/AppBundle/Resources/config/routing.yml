@@ -1,0 +1,5 @@
+akappbundle_default:
+    resource: '@AkAppBundle/Controller/DefaultController.php'
+    type:     annotation
+    prefix:   /
+
