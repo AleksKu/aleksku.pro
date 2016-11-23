@@ -33,7 +33,7 @@ monolog:
 
 assetic:
     use_controller: "%use_assetic_controller%"
-    node: /usr/local/bin/node
+    node: /usr/bin/node
     sass: /usr/local/bin/sass
     filters:
         uglifyjs2:
